@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/.github.io/NewReactapp/static/css/main.584f321a.chunk.css",
+    "main.js": "/.github.io/NewReactapp/static/js/main.5bc742e1.chunk.js",
+    "main.js.map": "/.github.io/NewReactapp/static/js/main.5bc742e1.chunk.js.map",
+    "runtime~main.js": "/.github.io/NewReactapp/static/js/runtime~main.98ae4bd2.js",
+    "runtime~main.js.map": "/.github.io/NewReactapp/static/js/runtime~main.98ae4bd2.js.map",
+    "static/js/2.b41502e9.chunk.js": "/.github.io/NewReactapp/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/.github.io/NewReactapp/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/.github.io/NewReactapp/index.html",
+    "precache-manifest.838be81e8aab53532f960608c052fe04.js": "/.github.io/NewReactapp/precache-manifest.838be81e8aab53532f960608c052fe04.js",
+    "service-worker.js": "/.github.io/NewReactapp/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/.github.io/NewReactapp/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/.github.io/NewReactapp/static/media/logo.5d5d9eef.svg"
+  }
+}
