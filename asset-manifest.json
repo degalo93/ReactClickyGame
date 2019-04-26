@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/NewReactapp/static/css/main.d79994a2.chunk.css",
-    "main.js": "/.github.io/NewReactapp/static/js/main.2c7672df.chunk.js",
-    "main.js.map": "/.github.io/NewReactapp/static/js/main.2c7672df.chunk.js.map",
-    "runtime~main.js": "/.github.io/NewReactapp/static/js/runtime~main.98ae4bd2.js",
-    "runtime~main.js.map": "/.github.io/NewReactapp/static/js/runtime~main.98ae4bd2.js.map",
-    "static/js/2.884c28c3.chunk.js": "/.github.io/NewReactapp/static/js/2.884c28c3.chunk.js",
-    "static/js/2.884c28c3.chunk.js.map": "/.github.io/NewReactapp/static/js/2.884c28c3.chunk.js.map",
-    "index.html": "/.github.io/NewReactapp/index.html",
-    "precache-manifest.cd404253cd9a4d2cdd793bb76cfc88e2.js": "/.github.io/NewReactapp/precache-manifest.cd404253cd9a4d2cdd793bb76cfc88e2.js",
-    "service-worker.js": "/.github.io/NewReactapp/service-worker.js",
-    "static/css/main.d79994a2.chunk.css.map": "/.github.io/NewReactapp/static/css/main.d79994a2.chunk.css.map"
+    "main.css": "/NewReactapp/static/css/main.d79994a2.chunk.css",
+    "main.js": "/NewReactapp/static/js/main.4571e775.chunk.js",
+    "main.js.map": "/NewReactapp/static/js/main.4571e775.chunk.js.map",
+    "runtime~main.js": "/NewReactapp/static/js/runtime~main.f879ebd4.js",
+    "runtime~main.js.map": "/NewReactapp/static/js/runtime~main.f879ebd4.js.map",
+    "static/js/2.884c28c3.chunk.js": "/NewReactapp/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/NewReactapp/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/NewReactapp/index.html",
+    "precache-manifest.0ff68e56ebc016b9270ff9d293a39804.js": "/NewReactapp/precache-manifest.0ff68e56ebc016b9270ff9d293a39804.js",
+    "service-worker.js": "/NewReactapp/service-worker.js",
+    "static/css/main.d79994a2.chunk.css.map": "/NewReactapp/static/css/main.d79994a2.chunk.css.map"
   }
 }
