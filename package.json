@@ -2,7 +2,7 @@
     "name": "newapp",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://degalo93.github.io/NewReactapp/",
+    "homepage": "https://degalo93.github.io/ReactClickyGame/",
     "dependencies": {
         "gh-pages": "^2.0.1",
         "react": "^16.8.6",
